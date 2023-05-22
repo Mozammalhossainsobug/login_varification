@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:login_varification/src/features/home/presentation/pages/home_page.dart';
+import 'package:login_varification/src/features/home/pages/home_page.dart';
 import 'package:login_varification/src/features/login/presentation/bloc/login_bloc.dart';
-import 'package:login_varification/src/features/login/presentation/pages/login_page.dart';
 
 void main() {
   runApp(const MyApp());
